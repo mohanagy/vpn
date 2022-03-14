@@ -19,5 +19,8 @@
         "http"
     ],
     "main": "socks.js",
+    "scripts": {
+        "start": "node ./bundle.js"
+    },
     "dependencies": {}
 }
